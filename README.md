@@ -43,13 +43,21 @@ Final grade
 OUTPUT:
 
 ======STUDENT GRADE CALCULATOR======
+
 Enter The Marks Of Subject 1 (0-100): 80
+
 Enter The Marks Of Subject 2 (0-100): 90
+
 Enter The Marks Of Subject 3 (0-100): 70
+
 Enter The Marks Of Subject 4 (0-100): 85
+
 Enter The Marks Of Subject 5 (0-100): 75
+
 The Total Marks = 400.0
+
 Average Marks = 80.0
+
 Your Final Grade Is B
 ==============THANK YOU==============
 
