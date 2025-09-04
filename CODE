@@ -1,0 +1,22 @@
+print("======STUDENT GRADE CALCULATOR======")
+marks=[]
+for i in range(1,6):
+    mark=float(input(f"Enter The Marks Of {i}st Subject (1-100) : " ))
+    marks.append(mark)
+
+    total=sum(marks)
+    average=total/5
+
+if average>=90:
+    grade='A'
+elif average>=75:
+    grade='B'
+elif average>=50:
+    grade='C'
+else:
+    grade='D'
+
+print("The Total Marks= ",total)
+print("Average Marks= ",average)
+print("Your Final Grade Is ", grade)
+print("==============THANK YOU==============")
