@@ -1,4 +1,4 @@
-1. Creates an empty list called marks.       hello
+1. Creates an empty list called marks.       
 Lists can store multiple values.
 Here we are storing the marks for each subject inside this list.
 
