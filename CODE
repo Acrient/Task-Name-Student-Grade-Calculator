@@ -5,7 +5,7 @@ for i in range(1,6):
     marks.append(mark)
 
     total=sum(marks)
-    average=total/ len(marks)
+    average=total/5
 
 if average>=90:
     grade='A'
