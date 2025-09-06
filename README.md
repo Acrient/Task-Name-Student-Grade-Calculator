@@ -1,3 +1,8 @@
+
+VIDEO LINK:-   file:///C:/Users/abhin/OneDrive/Desktop/python%20proj.py%20-%20Oracle_JDK-24%20-%20Visual%20Studio%20Code%202025-09-06%2020-18-08.mp4
+
+
+
 1. Creates an empty list called marks.       
 Lists can store multiple values.
 Here we are storing the marks for each subject inside this list.
